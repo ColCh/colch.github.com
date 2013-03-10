@@ -1,0 +1,6 @@
+safe: true
+auto: true
+source: ./_pages
+destination: ./_site
+lsi: false
+pygments: true
