@@ -1,6 +1,9 @@
 title: ColCh homepage
 description: My Github pages website
 
+url: http://colch.github.com/
+baseurl: /
+
 safe: true
 auto: true
 
