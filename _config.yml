@@ -1,6 +1,11 @@
 safe: true
 auto: true
-source: ./_pages
+
+source: .
 destination: ./_site
+
 lsi: false
 pygments: true
+
+exclude:
+  README.md
